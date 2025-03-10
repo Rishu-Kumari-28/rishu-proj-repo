@@ -1,2 +1,1 @@
-# rishu-proj-repo
-online shopping
+card store h.
